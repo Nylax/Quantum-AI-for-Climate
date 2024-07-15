@@ -32,33 +32,17 @@ Ensure your repository is public and submitted by **August 9, 2024, 23:59pm US E
 Ensure your repository does not contain any personal or team tokens/access information to access backends. Ensure your repository does not contain any third-party intellectual property (logos, company names, copied literature, or code). Any resources used must be open source or appropriately referenced.
 
 ### Team Information:
-Team Member 1: _(full name)_
- - Email:
- - Discord ID:
- - GitHub ID:
- - Nationality:
- - Current affiliation:
+Team Member 1: Ayelen Perez
+  Womanium Program Enrollment ID : WQ24-7qMjFbmW8Ad5DqZ
 
-Team Member 2: _(full name)_
- - Email:
- - Discord ID:
- - GitHub ID:
- - Nationality:
- - Current affiliation:
+Team Member 2:Nydia Assaf Aragon
+  Womanium Program Enrollment ID : WQ24-M9auBIZGbjWcEQT
 
-Team Member 3: _(full name)_
- - Email:
- - Discord ID:
- - GitHub ID:
- - Nationality:
- - Current affiliation:
+Team Member 3: Sebastian Fahara
+  Womanium Program Enrollment ID : WQ24-8mKHe2rQa8pO3Dg
 
-Team Member 4: _(full name)_
- - Email:
- - Discord ID:
- - GitHub ID:
- - Nationality:
- - Current affiliation:
+Team Member 4: Hugo Cristian Ojeda
+  Womanium Program Enrollment ID : 
 
 ### Project Solution:
 _Include a comprehensive summary of all important information about your project solution here._
